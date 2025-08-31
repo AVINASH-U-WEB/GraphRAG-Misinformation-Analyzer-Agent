@@ -1,0 +1,10 @@
+Flask
+python-dotenv
+neo4j
+groq
+datasets
+langchain
+langchain-groq
+langchain-community
+spacy
+en_core_web_sm
